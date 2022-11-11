@@ -301,9 +301,12 @@ footer {
     }
 
 
-
     .article1:nth-child(6) {
         display: none;
+    }
+
+    .article1:nth-child(4) {
         margin-left: -268px;
+
     }
 }
