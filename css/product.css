@@ -292,7 +292,7 @@ footer {
     }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 479px) {
     #article-container {
         display: grid;
         grid-template-areas: "e""c""b""a";
