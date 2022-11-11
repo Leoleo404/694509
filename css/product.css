@@ -300,9 +300,10 @@ footer {
         margin-top: 12px;
     }
 
- 
+
 
     .article1:nth-child(6) {
         display: none;
+        margin-left: -268px;
     }
 }
